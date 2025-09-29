@@ -19,7 +19,7 @@
     "@lidojs/design-utils": "^2.0.0",
     "@lidojs/draw": "^2.0.0",
     "@lidojs/text-editor": "^2.0.0",
-    "@mui/material": "^6.4.5",
+    "@mui/material": "^5.15.19",
     "axios": "^1.7.9",
     "lodash": "^4.17.21",
     "react": "^18.3.1",
@@ -33,6 +33,7 @@
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.5",
     "prop-types": "^15.8.1",
+    "vite": "^5.0.0",
     "vite-bundle-analyzer": "^0.17.0",
     "vite-plugin-environment": "^1.1.3"
   }
